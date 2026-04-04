@@ -2,7 +2,9 @@ import React from "react";
 
 const App = () => {
   return (
-    <p>I am learning React. My life is getting better.</p>
+    <div>
+      <p>I am learning React. My life is getting better.</p>
+    </div>
   );
 };
 
